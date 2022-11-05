@@ -1,9 +1,6 @@
 #pragma once
 #include <utility>
-//DO NOT INCLUDE MAPITERATOR
 
-
-//DO NOT CHANGE THIS PART
 typedef int TKey;
 typedef int TValue;
 typedef std::pair<TKey, TValue> TElem;

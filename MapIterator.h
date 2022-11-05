@@ -2,7 +2,6 @@
 #include "Map.h"
 class MapIterator
 {
-	//DO NOT CHANGE THIS PART
 	friend class Map;
 private:
 	const Map& map;

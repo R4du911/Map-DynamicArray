@@ -1,7 +1,6 @@
 #include "Map.h"
 #include "MapIterator.h"
 
- //13.ADT Map – repräsentiert mithilfe eines dynamischen Arrays von Paaren der Form (key, value)
 
 // Bester Fall: θ(1)
 // Schlechster Fall: θ(1)
